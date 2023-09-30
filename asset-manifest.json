@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sekai-safaris/static/css/main.72948c36.css",
+    "main.js": "/sekai-safaris/static/js/main.b3555ab4.js",
+    "index.html": "/sekai-safaris/index.html",
+    "main.72948c36.css.map": "/sekai-safaris/static/css/main.72948c36.css.map",
+    "main.b3555ab4.js.map": "/sekai-safaris/static/js/main.b3555ab4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72948c36.css",
+    "static/js/main.b3555ab4.js"
+  ]
+}
