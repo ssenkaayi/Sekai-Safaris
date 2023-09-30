@@ -1,12 +1,15 @@
 import React from 'react'
 import Base from '../../base/base'
 import Aboutus from './aboutus'
+import Nav from '../../head/nav'
+import Footer from '../../foot/footer'
 
 
 export default function About() {
   return (
     <div>
       
+      <Nav/>
 
       <Base
         cName='base-mid'
@@ -15,6 +18,8 @@ export default function About() {
       />
 
       <Aboutus/>
+
+      <Footer/>
 
     </div>
   )
