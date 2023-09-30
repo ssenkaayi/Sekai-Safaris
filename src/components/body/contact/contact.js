@@ -1,14 +1,12 @@
 import React from 'react'
 import Base from '../../base/base'
-import Nav from '../../head/nav'
-import Footer from '../../foot/footer'
 import Contactus from './contactus'
 
 export default function Contact() {
   return (
     
     <div>
-      <Nav/>
+      
 
       <Base
         cName='base-mid'
@@ -18,7 +16,6 @@ export default function Contact() {
 
       <Contactus/>
 
-      <Footer/>
     </div>
 
   )

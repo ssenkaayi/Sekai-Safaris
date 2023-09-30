@@ -1,13 +1,11 @@
 import React from 'react'
 import Base from '../../base/base'
-import Nav from '../../head/nav'
 import Destination from './destination'
 import Trip from './trip'
-import Footer from '../../foot/footer'
 export default function Home() {
   return (
     <div>
-      <Nav/>
+      
      
       <Base
       cName='base'
@@ -23,7 +21,7 @@ export default function Home() {
 
       <Trip/>
       
-      <Footer/>
+    
 
     </div>
   )
