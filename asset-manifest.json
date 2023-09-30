@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sekai-safaris/static/css/main.a3f62798.css",
-    "main.js": "/sekai-safaris/static/js/main.79f11a8f.js",
+    "main.js": "/sekai-safaris/static/js/main.bfc1164d.js",
     "index.html": "/sekai-safaris/index.html",
     "main.a3f62798.css.map": "/sekai-safaris/static/css/main.a3f62798.css.map",
-    "main.79f11a8f.js.map": "/sekai-safaris/static/js/main.79f11a8f.js.map"
+    "main.bfc1164d.js.map": "/sekai-safaris/static/js/main.bfc1164d.js.map"
   },
   "entrypoints": [
     "static/css/main.a3f62798.css",
-    "static/js/main.79f11a8f.js"
+    "static/js/main.bfc1164d.js"
   ]
 }
