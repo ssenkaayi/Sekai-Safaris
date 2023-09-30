@@ -5,15 +5,11 @@ import Home from './components/body/home/home';
 import About from './components/body/about/about';
 import Service from './components/body/service/service';
 import Contact from './components/body/contact/contact';
-import Nav from './components/head/nav';
-import Footer from './components/foot/footer';
 
 const App = ()=>{
 
   return (
     <div>
-
-      <Nav/>
 
       <Routes>
         <Route index element={<Home/>}/> 
@@ -22,9 +18,6 @@ const App = ()=>{
         <Route path='/service' element={<Service/>}/>
         <Route path='/contact' element={<Contact/>}/>
       </Routes>
-
-      <Footer/>
-     
     </div>
   );
 
